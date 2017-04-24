@@ -1,0 +1,11 @@
+Release
+Debug
+DestRepo
+*.ncb
+*.suo
+*.user
+*.db
+*.opendb
+*.bak
+*~
+*.tmp
